@@ -1,0 +1,4 @@
+id,name,description,task_status,project_name,task_type,task_priority,task_label,progress,start_date,due_date,created_at,updated_at
+1,One Thing  another one,Example Task Details,Opened,Livro A Other,tbp inspection s,standart s,blas,12,7/2/21,7/31/21,7/4/21 6:35,7/4/21 6:35
+2,Two,Second task details here....,Re-opened,Livro A,REGISTRATION,standart,KT tag 1,33,7/5/21,7/23/21,7/4/21 6:35,7/4/21 6:35
+3,Three,3 times task details,Re-opened,Livro A,tbp inspection,standart,KT tag 1,13,7/5/21,7/23/21,7/4/21 10:55,7/4/21 10:55
